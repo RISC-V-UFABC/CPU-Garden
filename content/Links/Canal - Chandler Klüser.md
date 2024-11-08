@@ -1,6 +1,7 @@
 ---
 title: Canal - Chandler Klüser
-tags: 
+tags:
+  - YouTube
 draft: false
 ---
 
