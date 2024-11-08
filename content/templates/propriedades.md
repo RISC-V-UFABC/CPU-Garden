@@ -1,5 +1,5 @@
 ---
 title: "{{title}}"
 tags: 
-draft: true
+draft: false
 ---
