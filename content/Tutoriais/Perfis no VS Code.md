@@ -11,6 +11,7 @@ Porém a treta começa quando aquela extensão do NodeJS, começa a querer dar p
 
 # Os Perfis
 ![[vscode perfis.png]]
+
 A ideia por trás dos perfis (*Profile*)[^doc-profile], é justamente dar a possibilidade de se ter diversos ambientes de trabalhos, sem que um acabe interferindo no outro. Além de que facilita na hora de enviar uma configuração para uma outra pessoa, você pode só simplesmente copiara  pasta de configuração do perfil em específico e enviar.
 
 [^doc-profile]: [Documentação oficial sobre *Profile* no site do VS Code](https://code.visualstudio.com/docs/editor/profiles)
