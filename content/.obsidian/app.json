@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "./anexos"
+  "attachmentFolderPath": "./anexos",
+  "alwaysUpdateLinks": true
 }
