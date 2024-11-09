@@ -1,6 +1,7 @@
 ---
 title: Digital
-tags: 
+tags:
+  - programa
 draft: false
 ---
 # Descrição
