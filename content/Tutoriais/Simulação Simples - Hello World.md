@@ -130,7 +130,6 @@ gtkwave and_gate_wave.vcd
 Na interface do programa, basta selecionar o nosso *testbanch* em **SST** e em seguida arrastar as nossas "variáveis" para `Signals->Time`. Como mostrado na imagem abaixo. Na barra superior, ao lado do botão de **Zoom In**, tem o botão de **Zoom Fit**, ao clicar nele, o zoom vai se ajustar para mostrar toda a nossa simulação.
 
 ![[janela GTK Wave.png]]
-
 > [!abstract]- Código completo
 > `src/hello.v`
 > ```verilog
