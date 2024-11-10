@@ -1,7 +1,8 @@
 ---
-title: GTK Wave
+title: Verilator
 tags:
   - programa
   - simulador
+  - compilador
 draft: false
 ---
